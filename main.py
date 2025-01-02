@@ -33,3 +33,5 @@ for index, row in info.iterrows():
     print(f"{row[0]}: {row[1]}")
 
 print(f"\nFinancial statements and company info have been exported to {ticker}_financials.xlsx.")
+
+# Happy New Year!
